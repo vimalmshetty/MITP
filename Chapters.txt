@@ -6,5 +6,6 @@ Here are the list of chapters
 4. Monitoring and Control
 5. Quality Control
 6. Risk Management
+7. Change Management
 
 End
